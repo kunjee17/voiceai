@@ -1,1 +1,9 @@
 /target
+Cargo.lock
+*.db
+*.db-*
+.env
+.env.local
+.env.*.local
+.DS_Store
+*.log
